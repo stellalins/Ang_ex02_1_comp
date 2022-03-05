@@ -1,0 +1,10 @@
+
+form{
+    height: 250px;
+    width: 250px;
+    border: none;
+  
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }

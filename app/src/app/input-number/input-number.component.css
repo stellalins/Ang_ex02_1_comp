@@ -1,0 +1,17 @@
+
+label{
+    margin-left: 10px;
+    display: block;
+  }
+  
+  #idade{ 
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 1em rgb(45, 53, 97);
+    transition: transform 0.5s;
+  }
+  #idade:hover{
+    transform: scale(1.2);
+  }
